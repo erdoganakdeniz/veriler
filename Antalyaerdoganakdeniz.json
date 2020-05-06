@@ -1,27 +1,27 @@
 {"mekanlar": [{
                      "id":"1",
-                    "resim": "https://drive.google.com/file/d/1Nrn-3zs0Zf1lusN6pH3qVRlV44oeCPOE/view?usp=sharing",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res1.jpg",
                     "baslik": "Hadrian Kapısı",
                     "tarih": "M.S 130",
                            "aciklama": "Tarihi Mekan"
                 },
                 {
                 "id":"2",
-                    "resim": "https://drive.google.com/file/d/1JfAfYzFfxo1qXYKs_A4igVHm-oI63fmY/view?usp=sharing",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res2.jpg",
                     "baslik": "Düden Parkı",
                     "tarih": "2002",
                            "aciklama": "Park"
                 },
                 {
                 "id":"3",
-                    "resim": "https://drive.google.com/file/d/1_Xo1ZOKACJo4raPi9hdjmlcuXNr8Ldiz/view?usp=sharing",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res3.jpg",
                     "baslik": "Konyaaltı Plajı",
                     "tarih": "Bilinmiyor",
                            "aciklama": "Plaj"
                 },
                 {
                 "id":"4",
-                    "resim": "https://drive.google.com/file/d/1qtEAM4coTxiWIkRejKlJN7DVwh60OAkk/view?usp=sharing",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res4.jpg",
                     "baslik": "Yivli Minare Camii",
                     "tarih": "13.Yy",
                            "aciklama": "Camii"
@@ -29,13 +29,13 @@
              
 {
 "id":"5",
-                    "resim": "https://drive.google.com/file/d/1UkKjm5ONoW3-y13CNUXPxk_kS82K-HpP/view?usp=sharing",                    "baslik": "Hıdırlık Kalesi",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res5.jpg",                    "baslik": "Hıdırlık Kalesi",
                     "tarih": "2.Yy",
                            "aciklama": "Kale"
                 },
 {
 "id":"6",
-                    "resim": "https://drive.google.com/file/d/1w-CNb1ehsmxum_TzJBEJu9oTFyxkMiKy/view?usp=sharing",
+                    "resim": "https://github.com/erdoganakdeniz/veriler/blob/master/res6.jpg",
                     "baslik": "Karain Mağarası",
                     "tarih": "Paleolitik Çağ",
                            "aciklama": "Mağara"
